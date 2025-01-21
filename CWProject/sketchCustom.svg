@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="-100 -100 200 200">
+<polyline style="fill:none;stroke-width:4.0;stroke:#FF2000FF" points="-95.0,-65.0 95.0,-65.0 " />
+<polyline style="fill:none;stroke-width:4.0;stroke:#FF2000FF" points="-95.0,65.0 95.0,65.0 " />
+<polygon style="fill:#FFFF00FF;stroke-width:2.0;stroke:#FFA500FF" points="-50.0,-30.0 -41.18322,-12.135255 -21.468304,-9.27051 -35.734154,4.635255 -32.366444,24.27051 -50.0,15.0 -67.63356,24.27051 -64.26585,4.6352553 -78.53169,-9.270509 -58.816776,-12.135257 " />
+<path style="fill:#004EFFFF;stroke-width:2.0;stroke:#0000FFFF" d="M 61.480503, -27.716385 A 30.0 30.0 0 1 0 61.480503, 27.716385 A 30.0 30.0 0 0 1 61.480503, -27.716385" />
+</svg>

@@ -1,0 +1,7 @@
+# Top/bottom borders
+line -95 65 95 65 4 ff2000ff
+line -95 -65 95 -65 4 ff2000ff
+
+# Custom shapes
+star 5 30 -50 0 2 Ffa500FF FFFF00FF 
+moon 30 0.75 50 0 2 0000ffFF 004EFFFF
